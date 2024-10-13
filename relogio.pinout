@@ -1,0 +1,51 @@
+
+
+LED[0] = led0;
+LED[1] = led1;
+LED[2] = led2;
+LED[3] = led3;
+LED[4] = led4;
+LED[5] = led5;
+LED[6] = led6;
+
+LEDmodo[0] = led8;
+LEDmodo[1] = led9;
+
+clk = clk_1hz;
+
+setState = btn0;
+change = btn1;
+rst = btn2;
+
+DISPLAY0[0] = segd0.g_on;
+DISPLAY0[1] = segd0.f_on;
+DISPLAY0[2] = segd0.e_on;
+DISPLAY0[3] = segd0.d_on;
+DISPLAY0[4] = segd0.c_on;
+DISPLAY0[5] = segd0.b_on;
+DISPLAY0[6] = segd0.a_on;
+
+DISPLAY1[0] = segd1.g_on;
+DISPLAY1[1] = segd1.f_on;
+DISPLAY1[2] = segd1.e_on;
+DISPLAY1[3] = segd1.d_on;
+DISPLAY1[4] = segd1.c_on;
+DISPLAY1[5] = segd1.b_on;
+DISPLAY1[6] = segd1.a_on;
+
+DISPLAY2[0] = segd2.g_on;
+DISPLAY2[1] = segd2.f_on;
+DISPLAY2[2] = segd2.e_on;
+DISPLAY2[3] = segd2.d_on;
+DISPLAY2[4] = segd2.c_on;
+DISPLAY2[5] = segd2.b_on;
+DISPLAY2[6] = segd2.a_on;
+pontinho = segd2.dp_on;
+
+DISPLAY3[0] = segd3.g_on;
+DISPLAY3[1] = segd3.f_on;
+DISPLAY3[2] = segd3.e_on;
+DISPLAY3[3] = segd3.d_on;
+DISPLAY3[4] = segd3.c_on;
+DISPLAY3[5] = segd3.b_on;
+DISPLAY3[6] = segd3.a_on;
